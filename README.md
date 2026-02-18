@@ -5,17 +5,19 @@
 **It is designed to help researchers, data scientists, and economists analyze the factors driving layoffs, including AI automation, economic corrections, and pandemic impacts.<br>**
 
 **Dataset Features**
-The dataset contains the following key columns for analysis:
-• Company Information: Name, industry (e.g., Tech, Finance, AI, Healthcare), and company size (Startup, Mid-size, Enterprise).
-• Geographic Data: Country and continent (covering North America, Asia, Europe, South America, and Oceania).
-• Layoff Details: Date of layoff, total count of affected employees, and the percentage of the workforce impacted.
-• Financial Metrics: Funding stage (Seed, Series A–C, IPO), total funding raised (in millions USD), revenue growth percentage, and market cap (in billions USD).
-• Market Context: 7-day stock price change, current hiring status (Hiring, Slowdown, or Freeze), and a calculated Layoff Severity Score.
-• Analytical Flags:
-    ◦ ai_automation_flag: Indicates if layoffs were directly linked to AI automation.
-    ◦ economic_cycle_flag: Categorizes the broader economic context, such as Tech Correction, Pandemic Impact, or AI Restructuring.
-Layoff Reasons Identified
-The data identifies several primary drivers for workforce reductions:
+The dataset contains the following key columns for analysis:<br>
+• Company Information: Name, industry (e.g., Tech, Finance, AI, Healthcare), and company size (Startup, Mid-size, Enterprise).<br>
+• Geographic Data: Country and continent (covering North America, Asia, Europe, South America, and Oceania).<br>
+• Layoff Details: Date of layoff, total count of affected employees, and the percentage of the workforce impacted.<br>
+• Financial Metrics: Funding stage (Seed, Series A–C, IPO), total funding raised (in millions USD), revenue growth percentage, and market cap (in billions USD).<br>
+• Market Context: 7-day stock price change, current hiring status (Hiring, Slowdown, or Freeze), and a calculated Layoff Severity Score.<br>
+
+• Analytical Flags:<br>
+    ◦ ai_automation_flag: Indicates if layoffs were directly linked to AI automation.<br>
+    ◦ economic_cycle_flag: Categorizes the broader economic context, such as Tech Correction, Pandemic Impact, or AI Restructuring.<br>
+
+Layoff Reasons Identified<br>
+The data identifies several primary drivers for workforce reductions:<br>
 • Market Downturn<br>
 • Cost Cutting<br>
 • Restructuring<br>

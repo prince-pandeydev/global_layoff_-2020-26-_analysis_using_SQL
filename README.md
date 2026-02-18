@@ -1,5 +1,7 @@
 # global_layoff_-2020-26-_analysis_using_SQL
 ## Global Layoffs Dataset (2020–2026)
+This project analyzes global layoff trends using advanced SQL queries.<br>
+The objective is to understand financial distress indicators, AI automation impact, economic cycle effects, and workforce reduction patterns.<br>
 ### Overview
 **This dataset provides a comprehensive look at global workforce reductions across various industries, funding stages, and geographic regions between 2020 and 2026.<br>**
 **It is designed to help researchers, data scientists, and economists analyze the factors driving layoffs, including AI automation, economic corrections, and pandemic impacts.<br>**
